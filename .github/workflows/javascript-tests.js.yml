@@ -1,5 +1,3 @@
-25 lines (20 sloc)  444 Bytes
-  
 name: Run Javascript Tests
 
 on: [push]
