@@ -40,7 +40,7 @@ function updateItem(req,res){
 function deleteItem(req,res){
     let id = parseInt(req.params.id)
     let deleteItem = drink.delete(id)
-    res.status(200).json(deleteItem)
+    res.status(200).json({msg:'deleted!'})
 }
 
 module.exports = drinkRouter
