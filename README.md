@@ -1,4 +1,4 @@
-# LAB - Basic Express Server
+# LAB - Basic API Server
 
 
 ### Author: Ellis Yoo
